@@ -1,0 +1,584 @@
+[
+    {
+        "Grade": "Legendary",
+        "Item name": "Leopard of Zanzibar",
+        "Quantity": 1,
+        "Individual chance": "0.00206500%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Polar Bear Knight",
+        "Quantity": 1,
+        "Individual chance": "0.00206500%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Tundra Battle Wolf",
+        "Quantity": 1,
+        "Individual chance": "0.00076600%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Black Horse of Richard I",
+        "Quantity": 1,
+        "Individual chance": "0.00076600%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Brown Bear Knight",
+        "Quantity": 1,
+        "Individual chance": "0.00076600%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Arabian Noble Camel",
+        "Quantity": 1,
+        "Individual chance": "0.00076600%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Andes Alpaca",
+        "Quantity": 1,
+        "Individual chance": "0.00076600%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Tundra Wolf",
+        "Quantity": 1,
+        "Individual chance": "0.00035333%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "White Horse of Philippe II",
+        "Quantity": 1,
+        "Individual chance": "0.00035333%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Giant Elk",
+        "Quantity": 1,
+        "Individual chance": "0.00035333%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Ibex of Alfonso I",
+        "Quantity": 1,
+        "Individual chance": "0.00035333%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Victory Parade Welsh Corgi",
+        "Quantity": 1,
+        "Individual chance": "0.00035333%"
+    },
+    {
+        "Grade": "Legendary",
+        "Item name": "Military Bandmaster Red Panda",
+        "Quantity": 1,
+        "Individual chance": "0.00035333%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Reindeer of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00436625%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Forest Donkey of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00436625%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Zebra of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00436625%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Donkey of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00211666%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Boar of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00211666%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Big Antler Deer of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00211666%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Bighorn Sheep of Honor",
+        "Quantity": 1,
+        "Individual chance": "0.00211666%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Mail Carrier Welsh Corgi",
+        "Quantity": 1,
+        "Individual chance": "0.00211666%"
+    },
+    {
+        "Grade": "Epic",
+        "Item name": "Spotted Welsh Corgi the Mail Carrier",
+        "Quantity": 1,
+        "Individual chance": "0.00211666%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Thorn Wolf",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Black Bear",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Mane Wolf",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Black Horse",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Polar Bear",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Battle Water Buffalo",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Thorn Leopard",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Donkey",
+        "Quantity": 1,
+        "Individual chance": "0.06614868%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored White Horse",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Royal White Horse",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored Black Horse",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Royal Black Horse",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Forest Bear",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored Bear",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Explorer's Donkey",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Adventurer's Donkey",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Plateau Alpaca",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing White Deer",
+        "Quantity": 1,
+        "Individual chance": "0.04365796%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored Donkey",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored Mule",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored Wolf",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Battle Wolf",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Black Boar",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Forest Boar",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Armored Pig",
+        "Quantity": 1,
+        "Individual chance": "0.04535995%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Battle Pig",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Red Deer",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Decor Deer",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Forest Deer",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Black Deer",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Welsh Corgi",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Forest Donkey",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Zebra",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Rare",
+        "Item name": "Rushing Spotted Welsh Corgi",
+        "Quantity": 1,
+        "Individual chance": "0.00441000%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Thorn Wolf",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Black Bear",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Mane Wolf",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Black Mane Horse",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Polar Bear",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Skull Water Buffalo",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Thorn Leopard",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Donkey",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame White Mane Horse",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Black Horse",
+        "Quantity": 1,
+        "Individual chance": "1.24031176%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Tame Forest Bear",
+        "Quantity": 1,
+        "Individual chance": "1.37812362%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Merchant's Donkey",
+        "Quantity": 1,
+        "Individual chance": "1.37812362%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Porter's Donkey",
+        "Quantity": 1,
+        "Individual chance": "1.37812362%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Black Horse",
+        "Quantity": 1,
+        "Individual chance": "1.37812362%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Horse",
+        "Quantity": 1,
+        "Individual chance": "1.37812362%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Brown Bear",
+        "Quantity": 1,
+        "Individual chance": "1.37812362%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Wolfdog",
+        "Quantity": 1,
+        "Individual chance": "1.72265578%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Skull Water Buffalo",
+        "Quantity": 1,
+        "Individual chance": "1.72265578%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Leopard",
+        "Quantity": 1,
+        "Individual chance": "1.72265578%"
+    },
+    {
+        "Grade": "Uncommon",
+        "Item name": "Trained Donkey",
+        "Quantity": 1,
+        "Individual chance": "1.72265578%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Thorn Wolf",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Black Bear",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Mane Wolf",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Brown Horse",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Polar Bear",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Skull Water Buffalo",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Thorn Leopard",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Donkey",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering White Horse",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Black Horse",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Forest Bear",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Mule",
+        "Quantity": 1,
+        "Individual chance": "3.25167758%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wild Donkey",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wild Wolfdog",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "White Feather Horse",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Ferocious Horse",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Ferocious Skull Water Buffalo",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Ferocious Leopard",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Ferocious Donkey",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Wandering Brown Bear",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    },
+    {
+        "Grade": "Common",
+        "Item name": "Ferocious Wolfdog",
+        "Quantity": 1,
+        "Individual chance": "3.54728534%"
+    }
+]
